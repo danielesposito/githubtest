@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
     //making a change
-    var thisText: String = "My Testcx"
+    var thisText: String = "My Test"
     
     override func viewDidLoad() {
         super.viewDidLoad()
